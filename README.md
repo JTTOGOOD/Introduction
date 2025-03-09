@@ -43,5 +43,5 @@ Features
 - Developer-Friendly: Clean API for rapid UI development.
 - Expandability: Easily extendable for future updates and new features.
 
-Cryptic is designed to be the go-to UI library for Roblox developers who want efficiency, customization, and performance in their UI systems. Stay tuned for updates and detailed documentation!
+Cryptic is designed to be the go-to UI library for Roblox Exploit developers who want efficiency, customization, and performance in their UI systems. Stay tuned for updates and detailed documentation!
 
