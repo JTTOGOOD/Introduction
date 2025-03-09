@@ -36,7 +36,7 @@ Features
 - Grid and flexbox-like layout systems for organized design.
 - Adaptive scaling for different screen sizes.
 
-Why Choose Cryptic?
+# Why Choose Cryptic?
 
 - Optimized Performance: Built for smooth rendering and minimal lag.
 - Highly Customizable: Modify styles, animations, and behaviors with ease.
